@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/voice-maker/static/css/main.81da7006.css",
+    "main.js": "/voice-maker/static/js/main.50636559.js",
+    "static/js/787.76450770.chunk.js": "/voice-maker/static/js/787.76450770.chunk.js",
+    "static/media/voicelogo.svg": "/voice-maker/static/media/voicelogo.9a8b53e463a98f1059cce20da26c3b2f.svg",
+    "index.html": "/voice-maker/index.html",
+    "main.81da7006.css.map": "/voice-maker/static/css/main.81da7006.css.map",
+    "main.50636559.js.map": "/voice-maker/static/js/main.50636559.js.map",
+    "787.76450770.chunk.js.map": "/voice-maker/static/js/787.76450770.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81da7006.css",
+    "static/js/main.50636559.js"
+  ]
+}
